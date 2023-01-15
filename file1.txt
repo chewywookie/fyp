@@ -1,2 +1,1 @@
-#so i can edit files on website
-#what bout in bash?
+#some comment
