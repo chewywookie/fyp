@@ -1,6 +1,7 @@
-# test
+# qrc_fyp_project
 
-testing the test
+This is my Fourth Year Project on Quantum Reservoir Computing. I am keeping below text for reference :).
+Need to add descrip, contributers, biblio?, usage etc. 
 
 ## Getting started
 
